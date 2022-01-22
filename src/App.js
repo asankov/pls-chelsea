@@ -1,22 +1,15 @@
 import logo from './logo.svg';
 import './App.css';
+import teams from "./teams.json"
+import {Table} from "./components/Table"
 
 function App() {
+  console.log(teams)
+
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <Table teams={teams.sort((t1, t2) => t2.points - t1.points)}></Table>
       </header>
     </div>
   );

@@ -8,6 +8,40 @@ body {
 }
 
 code {
+}
+
+* {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+  /* border: 1px solid red; */
+}
+
+.result {
+  margin-left: 5px;
+}
+.result.not-played-yet {
+  background-color: #C4C4C4;
+}
+
+.result.win {
+  background-color: #13CF00;
+}
+
+.result.defeat {
+  background-color: #D81920;
+}
+
+.result.draw {
+  background-color: #76766F;
+}
+
+.position {
+  background-color: #37003C;
+  padding: 5px;
+  font-weight: bold;
+}
+
+.team-name {
+  color: #37003C;
+  background-color: white;
 }
