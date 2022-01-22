@@ -41,6 +41,12 @@ code {
   font-weight: bold;
 }
 
+.points {
+  background-color: #37003C;
+  padding: 5px;
+  font-weight: bold;
+}
+
 .team-name {
   color: #37003C;
   background-color: white;
