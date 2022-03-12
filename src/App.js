@@ -1,11 +1,8 @@
-import logo from './logo.svg';
 import './App.css';
 import teams from "./teams.json"
 import {Table} from "./components/Table"
 
 function App() {
-  console.log(teams)
-
   return (
     <div className="App">
       <header className="App-header">
