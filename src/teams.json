@@ -1,7 +1,7 @@
 [
   {
     "fullName": "West Ham United",
-    "points": 45,
+    "points": 48,
     "results": {
       "away": "2-3"
     }
@@ -61,7 +61,7 @@
   },
   {
     "fullName": "Chelsea",
-    "points": 56
+    "points": 59
   },
 
   {
@@ -73,7 +73,7 @@
   },
   {
     "fullName": "Leeds United",
-    "points": 23,
+    "points": 26,
     "results": {
       "home": "3-2"
     }
