@@ -31,21 +31,22 @@
   },
   {
     "fullName": "Brentford",
-    "points": 30,
+    "points": 33,
     "results": {
-      "away": "1-0"
+      "away": "1-0",
+      "home": "1-4"
     }
   },
   {
     "fullName": "Leicester City",
-    "points": 36,
+    "points": 37,
     "results": {
       "home": "3-0"
     }
   },
   {
     "fullName": "Brighton & Hove Albion",
-    "points": 33,
+    "points": 34,
     "results": {
       "away": "1-1",
       "home": "1-1"
@@ -73,7 +74,7 @@
   },
   {
     "fullName": "Leeds United",
-    "points": 29,
+    "points": 30,
     "results": {
       "home": "3-2"
     }
@@ -81,7 +82,7 @@
 
   {
     "fullName": "Liverpool",
-    "points": 69,
+    "points": 72,
     "results": {
       "home": "1-1",
       "away": "1-1"
@@ -89,7 +90,7 @@
   },
   {
     "fullName": "Manchester City",
-    "points": 70,
+    "points": 73,
     "results": {
       "home": "0-1",
       "away": "0-1"
@@ -97,7 +98,7 @@
   },
   {
     "fullName": "Manchester United",
-    "points": 50,
+    "points": 51,
     "results": {
       "home": "1-1"
     }
@@ -112,7 +113,7 @@
   },
   {
     "fullName": "Norwich City",
-    "points": 17,
+    "points": 18,
     "results": {
       "home": "7-0",
       "away": "3-1"
@@ -120,7 +121,7 @@
   },
   {
     "fullName": "Southampton",
-    "points": 35,
+    "points": 36,
     "results": {
       "home": "3-1"
     }
@@ -142,7 +143,7 @@
   },
   {
     "fullName": "Wolverhampton Wanderers",
-    "points": 46,
+    "points": 49,
     "results": {
       "away": "0-0"
     }
