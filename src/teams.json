@@ -1,17 +1,17 @@
 [
   {
+    "fullName": "West Ham United",
+    "points": 51,
+    "results": {
+      "away": "2-3"
+    }
+  },
+  {
     "fullName": "Tottenham Hotspur",
     "points": 51,
     "results": {
       "home": "2-0",
       "away": "3-0"
-    }
-  },
-  {
-    "fullName": "West Ham United",
-    "points": 51,
-    "results": {
-      "away": "2-3"
     }
   },
   {
