@@ -1,5 +1,13 @@
 [
   {
+    "fullName": "Crystal Palace",
+    "points": 37,
+    "results": {
+      "home": "3-0",
+      "away": "1-0"
+    }
+  },
+  {
     "fullName": "West Ham United",
     "points": 51,
     "results": {
@@ -19,14 +27,6 @@
     "points": 54,
     "results": {
       "away": "2-0"
-    }
-  },
-  {
-    "fullName": "Crystal Palace",
-    "points": 34,
-    "results": {
-      "home": "3-0",
-      "away": "1-0"
     }
   },
   {
