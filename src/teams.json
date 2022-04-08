@@ -53,6 +53,14 @@
     }
   },
   {
+    "fullName": "Norwich City",
+    "points": 18,
+    "results": {
+      "home": "7-0",
+      "away": "3-1"
+    }
+  },
+  {
     "fullName": "Brighton & Hove Albion",
     "points": 34,
     "results": {
@@ -113,18 +121,10 @@
   },
   {
     "fullName": "Newcastle United",
-    "points": 31,
+    "points": 34,
     "results": {
       "home": "3-0",
       "away": "1-0"
-    }
-  },
-  {
-    "fullName": "Norwich City",
-    "points": 18,
-    "results": {
-      "home": "7-0",
-      "away": "3-1"
     }
   },
   {
