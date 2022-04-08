@@ -1,4 +1,12 @@
 [
+    {
+    "fullName": "Newcastle United",
+    "points": 34,
+    "results": {
+      "home": "3-0",
+      "away": "1-0"
+    }
+  },
   {
     "fullName": "Crystal Palace",
     "points": 37,
@@ -117,14 +125,6 @@
     "points": 51,
     "results": {
       "home": "1-1"
-    }
-  },
-  {
-    "fullName": "Newcastle United",
-    "points": 34,
-    "results": {
-      "home": "3-0",
-      "away": "1-0"
     }
   },
   {
