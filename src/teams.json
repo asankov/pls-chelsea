@@ -70,7 +70,7 @@
   },
   {
     "fullName": "Brighton & Hove Albion",
-    "points": 34,
+    "points": 37,
     "results": {
       "away": "1-1",
       "home": "1-1"
@@ -86,7 +86,7 @@
   },
   {
     "fullName": "Chelsea",
-    "points": 59
+    "points": 62
   },
 
   {
@@ -98,7 +98,7 @@
   },
   {
     "fullName": "Leeds United",
-    "points": 30,
+    "points": 33,
     "results": {
       "home": "3-2"
     }
@@ -131,7 +131,8 @@
     "fullName": "Southampton",
     "points": 36,
     "results": {
-      "home": "3-1"
+      "home": "3-1",
+      "away": "6-0"
     }
   },
   {
