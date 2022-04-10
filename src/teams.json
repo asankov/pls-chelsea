@@ -38,6 +38,14 @@
     }
   },
   {
+    "fullName": "Brentford",
+    "points": 36,
+    "results": {
+      "away": "1-0",
+      "home": "1-4"
+    }
+  },
+  {
     "fullName": "Aston Villa",
     "points": 36,
     "results": {
@@ -46,23 +54,15 @@
     }
   },
   {
-    "fullName": "Brentford",
-    "points": 33,
-    "results": {
-      "away": "1-0",
-      "home": "1-4"
-    }
-  },
-  {
     "fullName": "Leicester City",
-    "points": 37,
+    "points": 40,
     "results": {
       "home": "3-0"
     }
   },
   {
     "fullName": "Norwich City",
-    "points": 18,
+    "points": 21,
     "results": {
       "home": "7-0",
       "away": "3-1"
