@@ -38,19 +38,19 @@
     }
   },
   {
-    "fullName": "Brentford",
-    "points": 36,
-    "results": {
-      "away": "1-0",
-      "home": "1-4"
-    }
-  },
-  {
     "fullName": "Aston Villa",
     "points": 36,
     "results": {
       "home": "3-0",
       "away": "3-1"
+    }
+  },
+  {
+    "fullName": "Brentford",
+    "points": 36,
+    "results": {
+      "away": "1-0",
+      "home": "1-4"
     }
   },
   {
