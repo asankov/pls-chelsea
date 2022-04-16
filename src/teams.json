@@ -1,5 +1,5 @@
 [
-    {
+  {
     "fullName": "Newcastle United",
     "points": 34,
     "results": {
@@ -31,6 +31,13 @@
     }
   },
   {
+    "fullName": "Manchester United",
+    "points": 54,
+    "results": {
+      "home": "1-1"
+    }
+  },
+  {
     "fullName": "Arsenal",
     "points": 54,
     "results": {
@@ -47,7 +54,7 @@
   },
   {
     "fullName": "Brentford",
-    "points": 36,
+    "points": 39,
     "results": {
       "away": "1-0",
       "home": "1-4"
@@ -70,7 +77,7 @@
   },
   {
     "fullName": "Brighton & Hove Albion",
-    "points": 37,
+    "points": 40,
     "results": {
       "away": "1-1",
       "home": "1-1"
@@ -118,13 +125,6 @@
     "results": {
       "home": "0-1",
       "away": "0-1"
-    }
-  },
-  {
-    "fullName": "Manchester United",
-    "points": 51,
-    "results": {
-      "home": "1-1"
     }
   },
   {
